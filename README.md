@@ -7,7 +7,7 @@
 ## 🧠 Sobre mim
 
 Estou aprendendo a desenvolver sistemas, aprendendo linguagens de programação com base em conhecimentos de cursos e em busca de conhecimento e crescimento constantes. Atuo na área de tecnologia e tenho experiências em bancos de dados, C#, HTML e CSS.
-Portfolio: https://arthurxxs.github.io/portfolio/
+Portfolio: https://georibeiro228.github.io/07.01/
 ---
 
 ## ⚙️ Linguagens:
