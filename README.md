@@ -1,4 +1,4 @@
-# 👋 Olá meu nome é Geovanna Ribeiro
+# Olá meu nome é Geovanna Ribeiro
 
 🎓 Estudante de Tecnologia | 💻 Aprendendo programação | 🚀 Apaixonado por tecnologias e sistemas.
 
