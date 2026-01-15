@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá meu nome é Geovanna Ribeiro
 
-<!--
-**georibeiro228/georibeiro228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia | 💻 Aprendendo programação | 🚀 Apaixonado por tecnologias e sistemas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Estou aprendendo a desenvolver sistemas, aprendendo linguagens de programação com base em conhecimentos de cursos e em busca de conhecimento e crescimento constantes. Atuo na área de tecnologia e tenho experiências em bancos de dados, C#, HTML e CSS.
+Portfolio: https://arthurxxs.github.io/portfolio/
+---
+
+## ⚙️ Linguagens:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+
+---
+
+## 🌐 Web:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+
+---
+
+## 🛠 Banco de dados:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+
+---
+
+## 📞 Contatos:
+
+<a href="https://www.instagram.com/geovanna._ribeiro?igsh=ODVleW5vcHA0MW4z&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/geovanna-ribeiro-b5009029a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
